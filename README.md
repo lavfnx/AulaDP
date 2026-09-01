@@ -76,5 +76,48 @@ git commit -m "Mensagem de comentário"
 git push 
 
 ```
+## Citações 
+
+`> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.`
+
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas
+
+```
+
+| Tecnologia | Finalidade | 
+| --- | --- | 
+| Git | Controle de versões | 
+| Github | Hospedagem e colaboração | 
+| Markdown | Documentação| 
+
+```
+
+| Tecnologia | Finalidade | 
+| --- | --- | 
+| Git | Controle de versões | 
+| Github | Hospedagem e colaboração | 
+| Markdown | Documentação| 
+
+```
+| Esquerda | Centro | Direita | 
+| :--- | :---: | ---: |
+| textoooooooo | textooooooooo | textooooooo | 
+```
+
+| Esquerda | Centro | Direita | 
+| :--- | :---: | ---: |
+| textoooooooo | textooooooooo | textooooooo | 
+
+## Imagens
+
+```![Git](https://product-hub-prd.madeiramadeira.com.br/2173585/images/200c3958-fba6-4bdd-b353-57f55ad4ea1426906365painellonamoranguinhomod0420mx15msku3298v150694051500x373.jpg) ```
+
+![Git](https://product-hub-prd.madeiramadeira.com.br/2173585/images/200c3958-fba6-4bdd-b353-57f55ad4ea1426906365painellonamoranguinhomod0420mx15msku3298v150694051500x373.jpg)
+
+```![M](./img/moranguinho.jpg)```
+
+![Moranguinho](./img/moranguinho.jpg)
 
 
